@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=DynaPuff:wght@500&display=swap');
+
+* {
+  font-family: 'Comfortaa', sans-serif;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.gallerycontainer img {
+  width:50%;
+}
+
+.paragraph {
+  font-weight: normal;
+  font-size: 20px;
+}
+
+div > p {
+  background-color: #add8e6
+}
+
+.maincontent * {
+  border: 1vmin solid yellow;
+}
+
+h1, h3, .gallerycontainer {
+  border: 1vmin solid blue;
+}
+
+.title {
+  font-family: 'DynaPuff', sans-serif;
+  font-size: 60px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+a:link {
+  color: blue;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: purple;
+  text-decoration: underline;
+}
